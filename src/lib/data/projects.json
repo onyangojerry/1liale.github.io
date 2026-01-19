@@ -2,73 +2,73 @@
   {
     "title": "DebateModAI",
     "description": "A modern SaaS platform for debate practice and skill development, featuring AI-powered feedback and real-time video debates.",
-    "githubUrl": "https://github.com/1liale/debatemodai",
+    "githubUrl": "https://github.com/onyangojerry/debatemodai",
     "imageUrl": "/projects/DebateModAI.png"
   },
   {
     "title": "A Maze-ing",
     "description": "Generates an interactive 3D maze for players to solve! Built on a Svelte frontend and Go backend, featuring authentication (OAuth), Threlte (Three.js wrapper), and CI/CD (CircleCI).",
-    "githubUrl": "https://github.com/1liale/A-Maze-ing",
+    "githubUrl": "https://github.com/onyangojerry/A-Maze-ing",
     "imageUrl": "/projects/Maze.png"
   },
   {
     "title": "NameThatFish",
     "description": "Cross-platform fish identifier app using React Native, Flask, and TensorFlow. Fine-tuned EfficientNet CNN model on custom dataset to classify 20+ fish species.",
-    "githubUrl": "https://github.com/1liale/NameThatFish",
+    "githubUrl": "https://github.com/onyangojerry/NameThatFish",
     "imageUrl": "/projects/NameThatFish.gif"
   },
   {
     "title": "ApeironDev",
     "description": "ApeironDev is a scalable and robust cloud-native web IDE providing secure, sandboxed code execution and AI-powered code assistance.",
-    "githubUrl": "https://github.com/1liale/ApeironDev",
+    "githubUrl": "https://github.com/onyangojerry/ApeironDev",
     "imageUrl": "/projects/ApeironDev.png"
   },
   {
     "title": "Bitboard Chess",
     "description": "A high-performance chess engine leveraging magic bitboards for fast move generation. Built with C++ and Docker, featuring OOP principles and various chess heuristics.",
-    "githubUrl": "https://github.com/1liale/BitboardChess",
+    "githubUrl": "https://github.com/onyangojerry/BitboardChess",
     "imageUrl": "/projects/Chess.png"
   },
   {
     "title": "BlackJack Trainer",
     "description": "A CLI based Java program that helps players improve at the card game Blackjack.",
-    "githubUrl": "https://github.com/1liale/BlackJack-Trainer",
+    "githubUrl": "https://github.com/onyangojerry/BlackJack-Trainer",
     "imageUrl": "/projects/BlackJackTrainer.png"
   },
   {
     "title": "DebateModAI",
     "description": "A modern SaaS platform for debate practice and skill development, featuring AI-powered feedback and real-time video debates.",
-    "githubUrl": "https://github.com/1liale/debatemodai",
+    "githubUrl": "https://github.com/onyangojerry/debatemodai",
     "imageUrl": "/projects/DebateModAI.png"
   },
   {
     "title": "A Maze-ing",
     "description": "Generates an interactive 3D maze for players to solve! Built on a Svelte frontend and Go backend, featuring authentication (OAuth), Threlte (Three.js wrapper), and CI/CD (CircleCI).",
-    "githubUrl": "https://github.com/1liale/A-Maze-ing",
+    "githubUrl": "https://github.com/onyangojerry/A-Maze-ing",
     "imageUrl": "/projects/Maze.png"
   },
   {
     "title": "NameThatFish",
     "description": "Cross-platform fish identifier app using React Native, Flask, and TensorFlow. Fine-tuned EfficientNet CNN model on custom dataset to classify 20+ fish species.",
-    "githubUrl": "https://github.com/1liale/NameThatFish",
+    "githubUrl": "https://github.com/onyangojerry/NameThatFish",
     "imageUrl": "/projects/NameThatFish.gif"
   },
   {
     "title": "ApeironDev",
     "description": "ApeironDev is a scalable and robust cloud-native web IDE providing secure, sandboxed code execution and AI-powered code assistance.",
-    "githubUrl": "https://github.com/1liale/ApeironDev",
+    "githubUrl": "https://github.com/onyangojerry/ApeironDev",
     "imageUrl": "/projects/ApeironDev.png"
   },
   {
     "title": "Bitboard Chess",
     "description": "A high-performance chess engine leveraging magic bitboards for fast move generation. Built with C++ and Docker, featuring OOP principles and various chess heuristics.",
-    "githubUrl": "https://github.com/1liale/BitboardChess",
+    "githubUrl": "https://github.com/onyangojerry/BitboardChess",
     "imageUrl": "/projects/Chess.png"
   },
   {
     "title": "BlackJack Trainer",
     "description": "A CLI based Java program that helps players improve at the card game Blackjack.",
-    "githubUrl": "https://github.com/1liale/BlackJack-Trainer",
+    "githubUrl": "https://github.com/onyangojerry/BlackJack-Trainer",
     "imageUrl": "/projects/BlackJackTrainer.png"
   }
 ]

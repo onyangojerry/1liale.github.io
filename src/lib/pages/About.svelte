@@ -101,19 +101,18 @@
 		>
 			<div class="flex flex-col md:flex-row">
 				<div class="md:w-2/5">
-					<img src="/about/Profile.jpg" alt="Alex Li" class="w-full h-full object-cover" />
+					<img src="/about/Profile.jpg" alt="Jerry Onyango" class="w-full h-full object-cover" />
 				</div>
 				<div class="md:w-3/5 p-8 relative">
 					<h1 class="text-4xl font-bold mb-4">About Me</h1>
 					<p class="text-lg mb-4 text-gray-500">
-						I'm a 4th year undergrad student at the University of Waterloo,
-						currently building out innovative health-tech solutions (telemedicine & telehealth) to
-						make a positive impact on people's lives.
+						I'm a 4th year undergrad student at Pomona College,
+						currently building out innovative Machine Learning Algorithms and Data Pipelines with a focus on optimization adn maintenance.
 					</p>
 
 					<p class="text-lg mb-4 text-gray-500">
 						I have <strong class="text-blue-500/80">2+ years of working experience </strong>  as a
-						full-stack developer and have worked extensively with technologies such as AWS, Docker,
+						software developer focusing on ML/AI/NLP, Computer Architecture and and design of efficient data paths, in memory computing research assistant in Robotics, focusing on Incorporating Autonomous Reasoning in Robotic Swarms. I am a full-stack developer and have worked extensively with technologies such as AWS, Docker,
 						MongoDB, PostgreSQL, GraphQL, Node.js, Next, SvelteKit, Angular, and many more.
 						<span class="info-icon-wrapper">
 							<svg

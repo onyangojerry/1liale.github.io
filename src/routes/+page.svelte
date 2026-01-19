@@ -49,14 +49,14 @@
 	<svelte:fragment slot="header">
         <AppBar>
             <svelte:fragment slot="lead">
-                <h2 class="h3 md:h2 font-semibold">Alex Li</h2>
+                <h2 class="h3 md:h2 font-semibold">Jerry Onyango</h2>
             </svelte:fragment>
             <svelte:fragment slot="trail">
-                <a class="nav-link" href="https://linkedin.com/in/alexli2002" target="_blank" rel="noopener noreferrer">
+                <a class="nav-link" href="https://www.linkedin.com/in/jerry-rawlings-onyango/" target="_blank" rel="noopener noreferrer">
                     <span class="hidden sm:inline">LinkedIn</span>
                     <Linkedin class="sm:hidden w-5 h-5" />
                 </a>
-                <a class="nav-link" href="https://github.com/1liale" target="_blank" rel="noopener noreferrer">
+                <a class="nav-link" href="https://github.com/onyangojerry" target="_blank" rel="noopener noreferrer">
                     <span class="hidden sm:inline">GitHub</span>
                     <Github class="sm:hidden w-5 h-5" />
                 </a>
@@ -64,7 +64,7 @@
                     <span class="hidden sm:inline">Resumé</span>
                     <FileText class="sm:hidden w-5 h-5" />
                 </a>
-                <a class="nav-link" href="mailto:a336li@uwaterloo.ca">
+                <a class="nav-link" href="mailto:jerry.onyango.rawlings@gmail.com">
                     <span class="hidden sm:inline">Email</span>
                     <Mail class="sm:hidden w-5 h-5" />
                 </a>

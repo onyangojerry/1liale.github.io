@@ -9,7 +9,7 @@
   export let showQuote: boolean;
 
   const messages = [
-    "Hi, I'm Alex Li ",
+    "Hi, I'm Jerry Onyango ",
     "I'm a... ",
     "Software Developer ",
     "Problem Solver ",
